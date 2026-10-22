@@ -1,6 +1,35 @@
 {
   "entries": [
     {
+      "version": "v1.3.18",
+      "previous": "v1.3.17",
+      "date": "2026-10-22",
+      "templateCount": 852,
+      "added": [
+        "Dolibarr",
+        "Easy!Appointments"
+      ],
+      "removed": [],
+      "renamed": [],
+      "updated": [
+        {
+          "title": "Sealskin",
+          "fields": [
+            "description",
+            "env",
+            "logo",
+            "ports"
+          ]
+        },
+        {
+          "title": "Snipe-IT",
+          "fields": [
+            "note"
+          ]
+        }
+      ]
+    },
+    {
       "version": "v1.3.17",
       "previous": "v1.3.16",
       "date": "2026-10-21",
