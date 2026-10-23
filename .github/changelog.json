@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "version": "v1.3.19",
+      "previous": "v1.3.18",
+      "date": "2026-10-23",
+      "templateCount": 851,
+      "added": [],
+      "removed": [
+        "Budge"
+      ],
+      "renamed": [],
+      "updated": []
+    },
+    {
       "version": "v1.3.18",
       "previous": "v1.3.17",
       "date": "2026-10-22",
